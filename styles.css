@@ -107,7 +107,7 @@ footer{
 
 .main-home-first{
     display: flex;
-    background-image: url("/compressor/pexels-am83-33894060.jpg");
+    background-image: url("./compressor/pexels-am83-33894060.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
