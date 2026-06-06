@@ -9,6 +9,13 @@ RainyDays is the project for the course assignment in HTML and CSS. Rainydays is
 - CSS
 - Figma
 
+# Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/FabianAugustSkjellestad/FabianAugust-RainyDays.git
+   ```
+   ```
+
 # Project Link
 https://fabianaugustskjellestad.github.io/FabianAugust-RainyDays/
 
