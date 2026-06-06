@@ -14,7 +14,11 @@ RainyDays is the project for the course assignment in HTML and CSS. Rainydays is
    ```bash
    git clone https://github.com/FabianAugustSkjellestad/FabianAugust-RainyDays.git
    ```
-   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
 
 # Project Link
 https://fabianaugustskjellestad.github.io/FabianAugust-RainyDays/
